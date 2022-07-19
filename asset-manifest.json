@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/forex-table-react/static/css/main.9b78d70f.css",
+    "main.js": "/forex-table-react/static/js/main.8112aeaf.js",
+    "static/media/euro.png": "/forex-table-react/static/media/euro.1ffd38185554c26f7672.png",
+    "index.html": "/forex-table-react/index.html",
+    "main.9b78d70f.css.map": "/forex-table-react/static/css/main.9b78d70f.css.map",
+    "main.8112aeaf.js.map": "/forex-table-react/static/js/main.8112aeaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b78d70f.css",
+    "static/js/main.8112aeaf.js"
+  ]
+}
